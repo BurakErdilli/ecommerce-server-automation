@@ -1,0 +1,17 @@
+2024-12-22 14:09:25,188 - INFO - Processing file: Urunler-2024-12-16.xlsx
+2024-12-22 14:09:26,063 - INFO - Output saved to kuponlar\output_Urunler-2024-12-16.xlsx
+2024-12-22 14:10:18,148 - INFO - File loaded successfully into df_favorite.
+2024-12-22 14:10:18,303 - INFO - File loaded successfully into df_products.
+2024-12-22 14:10:18,309 - INFO - Filtered products based on stock and price, remaining products: 600
+2024-12-22 14:10:18,312 - INFO - Filtered products based on price difference, remaining products: 572
+2024-12-22 14:10:18,316 - INFO - Filtered products based on view count, remaining products: 252
+2024-12-22 14:10:18,373 - INFO - Filtered products saved to kampanya\filtered_products.xlsx
+2024-12-22 14:10:18,375 - INFO - Filtered and sorted products:
+2024-12-22 14:10:18,376 - INFO -                             Barkod  ...                         ListingId
+0               876548765456787654  ...  9fc9d6ddb541072c9e3db5fdf319646f
+2   987658754498765456785678987654  ...  57977c851e19b17542f899e091b698a7
+3  8765434567890987654567890987654  ...  d066aafcbf3010b43d6cedc2f870aa74
+5                  765434567887654  ...  64bda053e07510a0cee6fd3df7d397e3
+8                87654567899876543  ...  053f23585cdc68c1963fc33559dd3ded
+
+[5 rows x 14 columns]
