@@ -1,4 +1,4 @@
-## Home Server Setup Guide
+## Home Office Server Setup
 
 This documentation covers the steps to install and set up Ubuntu Server Edition on your machine and configure various services.
 
